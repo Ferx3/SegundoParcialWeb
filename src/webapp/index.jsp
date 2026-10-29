@@ -8,16 +8,17 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 </head>
 <body>
-<div class="container">
-    <h1>Proyecto funcionando</h1>
+<div class="container mt-5">
+    <h1><center>Proyecto funcionando</center></h1>
+    <br>
     <div class="container">
-        <p>
+        <center><p>
             <br/>
             <a href="Alumnos.jsp" class="btn btn-secondary">Alumnos</a>
             <a href="Profesores.jsp" class="btn btn-secondary">Profesores</a>
             <a href="Materias.jsp" class="btn btn-secondary">Materias</a>
             <a href="ProfesorMaterias.jsp" class="btn btn-secondary">Profesor Materias</a>
-        </p>
+        </p></center>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </div>
